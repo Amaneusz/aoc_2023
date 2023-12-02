@@ -45,6 +45,7 @@ fun main() {
 //    val result = Day1.task1(readInput("day_1_sample_1"))
 //    val result = Day1.task1(readInput("day_1_puzzle"))
 //    val result = Day1.task2(readInput("day_1_sample_2"))
-    val result = Day1.task2(readInput("day_1_puzzle"))
+//    val result = Day1.task2(readInput("day_1_puzzle"))
+    val result = Day1.task2(readInput("input_ziomek.txt"))
     println(result)
 }
